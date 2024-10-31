@@ -41,7 +41,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │   ├── java/com/example/imccalculator
+│   │   │   ├── java/br/ulbra/APP Calculadora de Potencia e Consumo de Eletronicos
 │   │   │  
 │   ├── MainActivity.java         #Atividade principal
 │   │   │   ├──res
