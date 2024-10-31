@@ -75,6 +75,10 @@ Na tela principal, o usuário insere seu potência, tempo de uso e custo de ener
 
 <img src="https://github.com/user-attachments/assets/71cdf623-d84b-4913-8245-a0bd36ba327c" width="260" height="500"/>
 
+# 🧰 APK do APP 
+
+<a href="https://github.com/LaurenAzevedo/APP-Calculadora-de-Pot-ncia-e-Consumo-de-Eletr-nicos/blob/main/energia.apk"> Download APK </a>
+
  
 # 📄 Licença
 
